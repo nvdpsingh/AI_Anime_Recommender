@@ -9,4 +9,6 @@
 - Streamlit
 - Docker
 - Grafana Cloud
-- Chroma DB
+- Chroma 
+- kubectl
+- github
